@@ -20,9 +20,24 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erica7dev)](https://github.com/erica7dev/github-readme-stats)
 
 ### Playlist I listen to when programming (with suggestions from other devs)
+
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/xxjupl6z0r7uutaxzxq7bspzp)
 
-[![Seguidores](https://img.shields.io/github/followers/{erica7dev}.svg?style=social&label=Follow&maxAge=2592000)]
+![](https://komarev.com/ghpvc/?username=erica7dev&color=006bed)
+[![Gmail Badge](https://img.shields.io/badge/-ericadeveloper@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericadeveloper@outlook.com)](mailto:ericadeveloper@outlook.com)
+[![GitHub Erica]( https://img.shields.io/github/followers/erica7dev?label=follow&style=social)](https://github.com/erica7dev)
+
+<img align="left" width="360" src="https://c.tenor.com/mG7yqWOzOmAAAAAd/goth-creepy.gif" />
+
+```c#
+  public static void Main(String[] args) {
+
+  string visitante = "Olá, Visitante!";
+
+  Console.WriteLine(visitante + "Gostou de me stalkear? :P");
+  Console.ReadKey();
+}
+```
 
 
 
