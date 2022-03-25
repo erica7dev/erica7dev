@@ -39,5 +39,5 @@
 }
 ```
 
-
+![Snake animation](https://github.com/erica7dev/erica7dev/blob/output/github-contribution-grid-snake.svg)
 
