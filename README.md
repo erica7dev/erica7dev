@@ -36,7 +36,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-ericadeveloper@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericadeveloper@outlook.com)](mailto:ericadeveloper@outlook.com)
 [![GitHub Erica]( https://img.shields.io/github/followers/erica7dev?label=follow&style=social)](https://github.com/erica7dev)
 
-<img align="left" width="360" src="https://c.tenor.com/mG7yqWOzOmAAAAAd/goth-creepy.gif" />
+<div>
+ <img align="left" width="360" src="https://c.tenor.com/mG7yqWOzOmAAAAAd/goth-creepy.gif" />
 
 ```c#
   public static void Main(String[] args) {
@@ -47,11 +48,11 @@
   Console.ReadKey();
 }
 ```
+</div>
 
-
-## Thank you for the visit!
     
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
     
+### Thank you for the visit!
 
 
