@@ -20,12 +20,25 @@
     <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img align="center" alt="c-sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
+
+### Studing...
+<div style="display:flex; align-items:space around;>
+    <img align="center" alt="saas" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+    <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+</div>
+
+### SO:
+<div style="display:flex; align-items:space around;>
+    <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</div>
+
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erica7dev&theme=radical)](https://github.com/erica7dev/github-readme-stats) <br><br>
 
-## Playlist I listen to when programming (with suggestions from other devs)
+## Playlist I listen to when programming
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/xxjupl6z0r7uutaxzxq7bspzp)
 
