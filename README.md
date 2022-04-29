@@ -1,5 +1,5 @@
 # Hey, People! I'm Érica Monteiro 🤗
-[![Site](https://img.shields.io/website?label=erica7dev.com&style=for-the-badge&url=https://https://github.com/erica7dev)](https://github.com/erica7dev)
+[![Site](https://img.shields.io/website?label=ericamonteiro-site&style=for-the-badge&url=https://https://github.com/erica7dev)](erica7dev.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erica7dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica7dev/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_9Vc9ZlTFktgzfVERtZA3A)
