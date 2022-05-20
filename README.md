@@ -30,12 +30,10 @@
 </div>
 
 ### Studing...
+<div style="display:flex; align-items:space around;">
  <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
  <img align="center" alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
  <img align="center" alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
-    
-
-<div style="display:flex; align-items:space around;">
 </div>     
     
     
