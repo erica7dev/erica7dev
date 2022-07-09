@@ -8,4 +8,5 @@ I'm Érica Monteiro, welcome to my GitHub.
 - **Java**
 - **GO** 
 - **JavaScript** 
+- **TypeScript**
 - **Kotlin** (Future goal)
