@@ -9,6 +9,8 @@ I'm Érica Monteiro, welcome to my GitHub.
 - **GO** 
 - **Kotlin** (Future goal)
 
+<br>
+
 ###  My Social Networks
 
 [![Site](https://img.shields.io/website?label=ericamonteiro-site&style=for-the-badge&url=https://https://github.com/erica7dev)](erica7dev.github.io)
@@ -16,7 +18,11 @@ I'm Érica Monteiro, welcome to my GitHub.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica7dev/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_9Vc9ZlTFktgzfVERtZA3A)
 
+<br>
+
 ![Erica Monteiro GitHub stats](https://github-readme-stats.vercel.app/api?username=erica7dev&show_icons=true&theme=highcontrast)
+
+<br>
 
 ## Technologies I use:
 <div style="display:flex; align-items:space around;"><br>
@@ -36,6 +42,7 @@ I'm Érica Monteiro, welcome to my GitHub.
     <img align="center" alt="GRAPHQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
     <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
+<br><br>
     
 ### OS
 <div style="display:flex; align-items:space around;">
@@ -49,14 +56,15 @@ I'm Érica Monteiro, welcome to my GitHub.
 
 ## Playlist I listen to when programming
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/xxjupl6z0r7uutaxzxq7bspzp)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7HzEw78JxWAdwuTPyBAHLP?si=9822b3c396ca4738)
 
 ![](https://komarev.com/ghpvc/?username=erica7dev&color=006bed)
 [![Gmail Badge](https://img.shields.io/badge/-ericadeveloper@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericadeveloper@outlook.com)](mailto:ericadeveloper@outlook.com)
 [![GitHub Erica]( https://img.shields.io/github/followers/erica7dev?label=follow&style=social)](https://github.com/erica7dev)
 
-<div>
- <img align="left" width="360" src="https://c.tenor.com/mG7yqWOzOmAAAAAd/goth-creepy.gif" />
+
+<div style="margin-left: 5px;">
+ <img align="left" width="360"  src="https://c.tenor.com/mG7yqWOzOmAAAAAd/goth-creepy.gif" />
 
 ```java
   public class Profile {
