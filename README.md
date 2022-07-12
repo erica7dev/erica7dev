@@ -6,7 +6,9 @@ I'm Érica Monteiro, welcome to my GitHub.
 ####  Languages I know or have known
 
 - **Java** 
-- **GO** 
+- **JavaScript**
+- **TypeScript**
+- **GO** (learning...)
 - **Kotlin** (Future goal)
 
 <br>
