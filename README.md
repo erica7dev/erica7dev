@@ -1,19 +1,11 @@
 
-<h1>Hey, People! 👋</h1>
+<h1>Hey! 👋</h1>
 
-I'm Érica Monteiro, welcome to my GitHub.
-
-####  Languages I know or have known
-
-- **Java** 
-- **JavaScript**
-- **TypeScript**
-- **GO** (learning...)
-- **Kotlin** (Future goal)
+Hello people! I'm Érica Monteiro, a little developer who is on the journey of knowledge. 
 
 <br>
 
-###  My Social Networks
+##  My Social Networks
 
 [![Site](https://img.shields.io/website?label=ericamonteiro-site&style=for-the-badge&url=https://https://github.com/erica7dev)](erica7dev.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ericaseven_dev/)
@@ -26,7 +18,9 @@ I'm Érica Monteiro, welcome to my GitHub.
 
 <br>
 
-## Technologies I use:
+## See below the technologies that I am aware of:
+
+### Technologies:
 <div style="display:flex; align-items:space around;"><br>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
