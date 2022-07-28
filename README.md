@@ -60,7 +60,7 @@ Hello people! I'm Érica Monteiro, a little developer who is on the journey of k
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7HzEw78JxWAdwuTPyBAHLP?si=9822b3c396ca4738)
 
 ![](https://komarev.com/ghpvc/?username=erica7dev&color=006bed)
-[![Gmail Badge](https://img.shields.io/badge/-ericadeveloper@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericadeveloper@outlook.com)](mailto:ericadeveloper@outlook.com)
+[![Gmail Badge](https://img.shields.io/badge/-erica7monteiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erica7monteiro@gmail.com)](mailto:erica7monteiro@gmail.com)
 [![GitHub Erica]( https://img.shields.io/github/followers/erica7dev?label=follow&style=social)](https://github.com/erica7dev)
 
 
